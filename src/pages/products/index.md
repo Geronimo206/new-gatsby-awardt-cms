@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our PIS
+title: Our BIG PIS
 image: /img/jumbotron.jpg
 heading: KAK is what we offer
 description: >-
